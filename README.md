@@ -1,7 +1,7 @@
 # Testes Automatizados - SauceDemo
 
 ## 🧪 Ferramentas Utilizadas
-- Python 3.x
+- Python 3.13
 - Selenium
 - PyTest
 - Allure Report
